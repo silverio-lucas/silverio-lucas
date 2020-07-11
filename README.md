@@ -1,6 +1,6 @@
 # Lucas Silvério
 
-### Hi there 👋. Wolcome to my profile
+### Hi there 👋 Welcome to my profile
 
 My name is Lucas and I'm JavaScript Developer
 - 🌱 I’m currently learning Node.js and React.js
