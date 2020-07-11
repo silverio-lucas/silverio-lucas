@@ -1,5 +1,9 @@
-### Hi there 👋
+# Lucas Silvério
 
+### Hi there 👋. Wolcome to my profile
+
+My name is Lucas and I'm JavaScript Developer
+- 🌱 I’m currently learning Node.js and React.js
 <!--
 **silverio-lucas/silverio-lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
