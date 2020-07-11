@@ -1,4 +1,4 @@
-# Lucas Silvério 😶
+# Lucas Silvério 👨🏻‍💻
 
 ### Hi there 👋 Welcome to my profile 
 
