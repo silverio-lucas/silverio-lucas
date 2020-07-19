@@ -1,5 +1,3 @@
-<img align="right" title="Harpia" width="350" height="350" src="https://www.hypeness.com.br/wp-content/uploads/2019/10/harpia-que-parece-pessoa-3.jpg">
-
 # Lucas Silvério 👨🏽‍🚀
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/silverio-lucas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/lucassilverio/)
