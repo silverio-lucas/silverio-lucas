@@ -1,43 +1,47 @@
 # Lucas Silvério
 
-Full Stack Developer in training  
+Full Stack Developer (in training)  
 Focused on JavaScript, React, and Node.js
 
 ---
 
 ## About
 
-I am transitioning from Web Design to Software Development, building a solid foundation in modern web technologies and software architecture.
+Transitioning from Web Design to Software Development, focused on building real-world applications and understanding system architecture.
 
-My focus is on:
+Current approach:
 - Writing clean, maintainable code
-- Understanding how systems are structured
-- Building real applications, not just isolated features
+- Designing scalable and modular systems
+- Building complete applications (frontend + backend)
 
 ---
 
 ## Current Focus
 
-- JavaScript fundamentals
-- Frontend development (React / Next.js)
-- Backend fundamentals (Node.js)
-- Software architecture and best practices
+- JavaScript (ES6+)
+- React / Next.js
+- Node.js (Express)
+- REST APIs and backend architecture
+- Database modeling (SQL & NoSQL)
+- Software design and best practices
 
 ---
 
-## Stack (in progress)
+## Stack
 
-- JavaScript
+- JavaScript (ES6+)
 - React / Next.js
-- Node.js
+- Node.js (Express)
+- PostgreSQL / MongoDB
 - Git & GitHub
 
 ---
 
 ## Learning Sources
 
-- Clean Code
-- Designing Data-Intensive Applications
+- Clean Architecture — Robert C. Martin
+- Designing Data-Intensive Applications — Martin Kleppmann
+- You Don’t Know JS Yet — Kyle Simpson
 - MDN Web Docs
 - Official documentation
 
